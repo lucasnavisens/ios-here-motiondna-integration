@@ -17,5 +17,5 @@ After completing these steps should be seeing the Navisens position on the Here 
 
 Have fun!
 
-
+![Scheme](heremaps_helloworld_ios.png)
 
