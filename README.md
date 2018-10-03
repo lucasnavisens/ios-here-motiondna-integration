@@ -1,8 +1,8 @@
 
 This is an example of Navisens' SDK integration with Here's SDK.
 
-Get a key from Here's [website](https://developer.here.com/develop/mobile-sdks?create=Freemium-Basic&keepState=true&step=terms).
-Then fill in the `YOUR_APP_ID` and `YOUR_APP_CODE` with the given tokens.
+Get a key from Here's [website](https://developer.here.com/develop/mobile-sdks?create=Freemium-Basic&keepState=true&step=terms).<br/>
+Then fill in the `YOUR_APP_ID` and `YOUR_APP_CODE` with the given tokens in `AppDelegate.swift`.
 
 Then retrieve a Navisens SDK key [here](https://navisens.com/).  
 And add it to the `runMotionDna` method in the `ViewController.swift` file.
