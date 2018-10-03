@@ -9,7 +9,7 @@ And add it to the `runMotionDna` method in the `ViewController.swift` file.
 
 When you are done with all your key retrievals, run:
 ```
-pod install // Will install MotionDna SDK and MapBox SDK
+pod install // Will install MotionDna SDK and Here SDK
 open  ios-here-helloworld.xcworkspace // Will launch xcode
 ```
 
